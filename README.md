@@ -1,2 +1,2 @@
 # WebBot
- acessa sites e salva informação para exibir ao usuario
+ Faz um WebScraping simples para facilitar o acesso a algumas informações
